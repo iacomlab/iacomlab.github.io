@@ -5,10 +5,10 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: center
+  align: right
   image: iacomlab_1280.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>Dpto. de Lenguajes y Ciencias de la Computación</p>  
     <p>E.T.S. de Ingeniería Informática</p>
     <p>Bulevar Louis Pasteur, 35. Campus de Teatinos</p>

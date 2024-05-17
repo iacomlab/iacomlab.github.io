@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: iacomlab_1280.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>

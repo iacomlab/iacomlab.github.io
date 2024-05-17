@@ -9,9 +9,10 @@ profile:
   image: iacomlab_1280.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Dpto. de Lenguajes y Ciencias de la Computación</p>  
-    <p>E.T.S. de Ingeniería Informática</p>
-    <p>Bulevar Louis Pasteur, 35. Campus de Teatinos</p>
+    <p>Dpto. de Lenguajes y Ciencias de la Computación.</p>  
+    <p>E.T.S. de Ingeniería Informática.</p>
+    <p>Bulevar Louis Pasteur, 35. Campus de Teatinos.</p>
+    <p>Málaga, Spain</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts

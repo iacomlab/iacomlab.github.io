@@ -38,6 +38,10 @@ Our main research interests are multiagent systems, agent-based modeling and sim
 - Ángel J. Rodríguez Mercado
 - Pablo Ruiz-Cruces
 
+# Collaborators
+- Sergio Gavilán
+
+
 # Contact us
 
 ![](/assets/img/iacomlab_email.png)

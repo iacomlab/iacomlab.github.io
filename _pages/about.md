@@ -40,4 +40,4 @@ Our main research interests are multiagent systems, agent-based modeling and sim
 
 # Contact us
 
-![](img/iacomlab_email.png)
+![](/assets/img/iacomlab_email.png)

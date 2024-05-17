@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 
 We are a small team of researchers on applied artificial intelligence from the University of Málaga (Spain). The role of Artificial Intelligence (AI) in solving complex problems is becoming increasingly important. Our goal is to explore the potential of AI to try to solve some of the problems facing our world today.
 
-Our main research interests are multiagent systems, agent-based modeling and simulation, multiagent (deep) reinforcement learning, and data science techniques applied to different fields such as smart cities, predictive policing, healthcare, education, environmental sustainability, logistics, or social governance.
+Our main research interests are multiagent systems, agent-based modeling and simulation, multiagent (deep) reinforcement learning, and data science and data engineering techniques applied to different fields such as smart cities, predictive policing, healthcare, user modeling, education, environmental sustainability, logistics, or social governance.
 
 [//]: <> ( Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 

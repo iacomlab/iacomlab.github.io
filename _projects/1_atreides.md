@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ATREIDES
-description: a project with a background image
+description: Agent-based simulation for predictive policing through data-driven and multi-tiered models
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -28,7 +28,6 @@ We are a small team of researchers on applied artificial intelligence from the U
 
 [//]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
--->
 
 # Members
 - Eduardo Guzmán
@@ -37,4 +36,4 @@ We are a small team of researchers on applied artificial intelligence from the U
 
 # Contact us
 
-iacomlab_email.png
+![](iacomlab_email.png)

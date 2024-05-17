@@ -36,4 +36,4 @@ We are a small team of researchers on applied artificial intelligence from the U
 
 # Contact us
 
-![](iacomlab_email.png)
+![](img/iacomlab_email.png)

@@ -8,6 +8,8 @@ category: work
 related_publications: true
 ---
 
+**keywords:** Agent-Based Modeling and Simulation, Predictive Policing, Data Science, Multi-Agent Reinforcement Learning
+
 Crime is one of the greatest threats to urban security. Around 80% of the world’s population live in countries with high levels of criminality. Predictive policing, i.e. the collection and analysis of data about previous crimes for prediction of individuals or areas with an increased probability of criminal activity, has turned to be a critical concern to help developing policing strategies and is recognized as a key element of police work. USA is the country with most experience in integrating predictive policing within their policing practice. Recently, European Comission has pointed out that new technologies and capabilities are needed to preventing and fighting crime. However, many reluctances have arisen due to the lack of transparency and bias of most existing predictive solutions which often underestimate the complexity of urban-crime modeling. Crime is a complex phenomenon affected by many factors, that must be taken into account by predictive models and has critical impact on the quality of predictions.
 
 <div class="row">

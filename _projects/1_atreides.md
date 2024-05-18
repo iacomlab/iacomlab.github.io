@@ -25,6 +25,11 @@ Simulation modeling, and in particular agent-based modeling and simulation (ABMS
 
 This project is part of the collaboration that has been taking place since 2018 between UMA researchers and the Intelligence Analysis Unit of the National Police, who are also members of this project. The main objective of ATREIDES is to improve the intelligence, operational, investigative and decision-making capabilities of law enforcement agencies (LEAs) through an ABMS platform. The platform will include three layers of models that can work together to simulate complex and realistic urban scenarios from heterogeneous data sources. We will use our experience with latent-trait models and other user modeling techniques to construct novel behavioral models of crime actors. Mobility is a key element of urban simulation, which also has a relevant impact on crime and is often underestimated in simulations. To this end, we will use our expertise in multi-objective heuristic search to develop realistic and novel approaches to modeling human mobility in urban environments. The third stage will pursue a collection of overlay and network-based models in different layers, including information such as traffic, pedestrian flow, weather, socio-economic aspects, etc. To ensure the success of the project, the data processing and the development of models and tools must be transparent, understandable and tailored to the needs of the LEAs. A pilot study will be carried out using the city of Malaga as a test bed, with a particular focus on gender-based crime prevention through a case study.
 
-##Main researchers:##
+## Main researchers:
 - Eduardo Guzmán
 - María Victoria Belmonte
+
+## Researchers:
+- José Luis Pérez de la Cruz
+- Eva Millán
+- Lawrence Mandow

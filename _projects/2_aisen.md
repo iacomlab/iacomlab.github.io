@@ -4,7 +4,7 @@ title: AISEN
 description: Development and validation of an AI-based interactive environment for the assessment and optimization of executive functions and reading processes in developmental disorders
 img: assets/img/transdig.png
 importance: 2
-category: work
+category: research
 giscus_comments: true
 ---
 
@@ -18,6 +18,14 @@ The role of technology in supporting students with SEN is widely recognized. Acc
 
 The main objective of the project is to develop and empirically validate an intelligent web-based software environment for the assessment and optimization of executive functions and reading processes in students with neurodevelopmental and learning disorders. The technological development objective is to design and develop a set of interactive activities and games that will be dynamically adapted to the student's progressive level of competence using AI techniques. These interactive activities will include an intelligent mechanism of graduated prompts adapted to optimize executive functions and reading processes. Their application will therefore make it possible to obtain information on both (a) the level of difficulty shown in solving the activities and (b) the type and degree of support required to solve them successfully. The validation objective involves testing and analyzing the extent to which the use of these activities significantly increases the predictive validity (incremental validity) of the executive function and reading performance experienced by the students, with respect to the prediction made on the basis of the results obtained with statically applied criterion tests. This validation objective also involves testing the effectiveness of the graded prompts in optimizing the learning process.
 
-##Main researchers:##
+## Main researchers:
 - Eduardo Guzmán (Universidad de Málaga)
 - Isabel de los Reyes Rodríguez (Universidad de Sevilla)
+
+## Researchers:
+- Universidad de Málaga
+  - María Victoria Belmonte
+  - Eva Millán
+  - Mónica Trella
+- Universidad de Sevilla
+- Universidad de Zaragoza

@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-We are a small team of researchers on applied artificial intelligence from the University of Málaga (Spain). The role of Artificial Intelligence (AI) in solving complex problems is becoming increasingly important. Our goal is to explore the potential of AI to try to solve some of the problems facing our world today.
+We are a small team of researchers on applied artificial intelligence from the University of Málaga (Spain). The role of Artificial Intelligence (AI) in solving complex problems is becoming increasingly important. Our goal is to explore the potential of AI to solve some of the problems facing our world today.
 
 Our main research interests are multiagent systems, agent-based modeling and simulation, multiagent (deep) reinforcement learning, and data science and data engineering techniques applied to different fields such as smart cities, predictive policing, healthcare, user modeling, education, environmental sustainability, logistics, or social governance.
 
@@ -30,17 +30,17 @@ Our main research interests are multiagent systems, agent-based modeling and sim
 [//]: <> (Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.)
 
 
-# Members
+## Members
 - Eduardo Guzmán
 - María Victoria Belmonte
 - Juan Palma Borda
 - Ángel J. Rodríguez Mercado
 - Pablo Ruiz-Cruces
 
-# Collaborators
+## Collaborators
 - Sergio Gavilán
 
 
-# Contact us
+## Contact us
 
 ![](/assets/img/iacomlab_email.png)

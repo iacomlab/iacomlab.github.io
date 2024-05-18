@@ -31,14 +31,14 @@ Our main research interests are multiagent systems, agent-based modeling and sim
 
 
 ## Members
-- Eduardo Guzmán
-- María Victoria Belmonte
+- Eduardo Guzm\'\an
+- Mar\'\ia Victor\'\ia Belmonte
 - Juan Palma Borda
-- Ángel J. Rodríguez Mercado
+- Ángel J. Rodr\'\iguez Mercado
 - Pablo Ruiz-Cruces
 
 ## Collaborators
-- Sergio Gavilán
+- Sergio Gavil\'\an
 
 
 ## Contact us

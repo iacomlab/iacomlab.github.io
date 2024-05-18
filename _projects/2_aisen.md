@@ -5,7 +5,6 @@ description: Development and validation of an AI-based interactive environment f
 img: assets/img/transdig.png
 importance: 2
 category: research
-giscus_comments: true
 ---
 
 **Keywords:** dynamic assessment, adaptive assessment, artificial intelligence, graded hints, reading processes, executive functions

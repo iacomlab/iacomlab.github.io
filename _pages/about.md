@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-We are a small team of researchers on applied artificial intelligence from the University of Málaga (Spain). The role of Artificial Intelligence (AI) in solving complex problems is becoming increasingly important. Our goal is to explore the potential of AI to solve some of the problems facing our world today.
+The role of Artificial Intelligence (AI) in solving complex problems is becoming increasingly important. We are a small team of researchers on applied artificial intelligence from the University of Málaga (Spain). Our goal is to explore the potential of AI to solve some of the problems facing our world today.
 
 Our main research interests are multiagent systems, agent-based modeling and simulation, multiagent (deep) reinforcement learning, and data science and engineering techniques applied to different fields such as smart cities, predictive policing, healthcare, user modeling, education, environmental sustainability, logistics, or social governance.
 

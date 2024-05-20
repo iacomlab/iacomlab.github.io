@@ -21,3 +21,6 @@ The main objective of this project was to provide funding for this collaboration
 - José Luis Pérez de la Cruz
 - Eva Millán
 - Lawrence Mandow
+- Juan Palma Borda
+- Sergio Gavilán
+- Pablo Ruiz-Cruces

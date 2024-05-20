@@ -33,3 +33,5 @@ This project is part of the collaboration that has been taking place since 2018 
 - José Luis Pérez de la Cruz
 - Eva Millán
 - Lawrence Mandow
+- Juan Palma Borda
+- Pablo Ruiz-Cruces

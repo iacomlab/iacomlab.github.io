@@ -26,5 +26,17 @@ The main objective of the project is to develop and empirically validate an inte
   - María Victoria Belmonte
   - Eva Millán
   - Mónica Trella
+  - Ángel J. Rodríguez Mercado
 - Universidad de Sevilla
+  - David Saldaña
+  - Antonio Aguilera
 - Universidad de Zaragoza
+  - Juan Carlos Bustamante
+  - Elena Escolano
+  - Eva Vicente
+  - Ester Ayllón
+  - M. Ángeles Bravo
+  - M. Antonio Acero
+  - Fernando Martín
+  - Estefanía Ortas
+- Nieves Moyano (Universidad de Jaén)

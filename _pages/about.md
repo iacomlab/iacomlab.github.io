@@ -41,7 +41,7 @@ Our main research interests are multiagent systems, agent-based modeling and sim
 - Jorge Camacho García
 
 ## Collaborators
-- Sergio Gavilán
+- Sergio Gavilán Prieto
 
 
 ## Contact us
